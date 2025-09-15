@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Piano Learning App",
+    "slug": "piano-learning-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#6366f1"
+    },
+    "sdkVersion": "51.0.0",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.pianolearning.app"
+    },
+    "android": {
+      "package": "com.pianolearning.app"
+    }
+  
+  }
+}
